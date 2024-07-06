@@ -1,0 +1,30 @@
+
+To copy in your manifest.json
+```
+
+"be.eloistree.monsstartpack":"https://github.com/EloiStree/2024_07_01_HelloUnityDroneSoccerMonsManifest.git",
+     "be.davidfoot.droneracerdavid": "https://github.com/DavidFoot/DroneRace_Foot_David.git",
+    "be.eloistree.droneracesample": "https://github.com/EloiStree/2024_06_31_DroneRaceStepSample.git",
+    "be.eloistree.droneracestepmesh": "https://github.com/EloiStree/2024_06_31_DroneRaceStep.git",
+    "be.eloistree.eloidronesample": "https://github.com/EloiStree/2024_07_01_DroneEloiSampleMons.git",
+    "be.eloistree.etoolboxbasicfont": "https://github.com/EloiStree/2024_03_11_eToolbox_BasicFont.git",
+    "be.eloistree.etoolboxcolordrop": "https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop.git",
+    "be.eloistree.generaltoolbox": "https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
+    "be.eloistree.license": "https://github.com/EloiStree/GeneralLicense.git",
+    "be.eloistree.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+    "be.eloistree.rootsofknowledgedronecar": "https://github.com/EloiStree/2023_02_19_RootsOfKnowledgeDrone.git",
+    "be.eloistree.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+    "be.eloistree.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+    "be.eloistree.zhulistaticsingleton": "https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton.git",
+    "be.mathysboutry.dronegame": "https://github.com/OelectronO/DroneRacingMathys.git",
+    "be.maxp.droneexo": "https://github.com/Raftak14/DroneRaceMaxP.git",
+    "be.paulinegossart.droneracesample": "https://github.com/PaulineRose07/DroneRace_Gossart_Pauline.git",
+    "be.romualdreynaud.packagedroneracingtest": "https://github.com/SpardTechs/MonLevelDeDrone.git",
+    "be.stefansimon.dronerace": "https://github.com/Girostef/DroneRace_Stef.git",
+    "be.terenceviseur.terencesample": "https://github.com/TerenceViseur/DroneRace_Terence.git",
+    "be.tombandiera.tomsdronerace": "https://github.com/tom-bandiera/TomsDroneRacePackage.git",
+    "be.valentinsaintjean.drone": "https://github.com/Couakadin/drone-valentin-stj.git",
+    "com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm",
+
+
+```

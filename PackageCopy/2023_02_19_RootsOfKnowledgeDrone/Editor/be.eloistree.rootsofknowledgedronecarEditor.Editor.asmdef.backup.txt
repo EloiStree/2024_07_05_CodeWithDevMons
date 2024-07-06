@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.rootsofknowledgedronecarEditor",          
+    "references": ["be.eloistree.rootsofknowledgedronecar","be.eloistree.intcmdcardronerc","be.eloistree.indexintcmd","be.eloistree.intcmd"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

@@ -1,0 +1,23 @@
+{                                                                                
+  "name": "be.davidfoot.droneracerdavid",                              
+  "displayName": "David Foot Drone Race Test",                        
+  "version": "0.0.1",                         
+  "unity": "2022.3",                            
+  "unityRelease": "",                             
+  "description": "David Foot - Mon Drone Racer",                         
+  "keywords": ["Script","Tool"],   
+  "relatedPackages":{},     
+  "samples" : [],
+  "author": {
+    "name": "David Foot",
+    "mail": "",
+    "url": "https://github.com/DavidFoot"
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/DavidFoot/DroneRace_Foot_David.git",
+    "footprint": "",
+    "revision": ""
+  },     
+  "category": "Script"                   
+} 

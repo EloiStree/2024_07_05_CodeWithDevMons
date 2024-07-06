@@ -1,0 +1,28 @@
+
+{                                                                                
+  "name": "be.eloistree.license",                              
+  "displayName": "General License Eloi",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "You package description",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [
+      {
+        "displayName":"Default Credit Screen" ,
+        "description":"Access a default credit screen." ,
+        "path":"Samples"
+    }],    
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/GeneralLicense.git",
+"footprint":"",
+"revision":"924e10bab91346e98a6dbbd37bddf6dbcf1079af"},     
+  "category": "Script"                   
+} 

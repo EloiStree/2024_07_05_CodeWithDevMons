@@ -1,0 +1,12 @@
+{
+  "name": "be.tombandiera.tomsdronerace",
+  "version": "0.0.1",
+  "displayName": "TomsDroneRacePackage",
+  "description": "My drone package",
+  "unity": "2018.1",
+  "author": {
+    "name": "Tom Bandiera",
+    "email": "tom.bandier@gmail.com",
+    "url": "https://yourwebsite.com"
+  }
+}

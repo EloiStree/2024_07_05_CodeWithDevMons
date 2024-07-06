@@ -1,0 +1,5 @@
+- About Eloi Stree: https://ko-fi.com/eloistree 
+- License Information: https://eloistree.page.link/license
+- Buy a license: https://ko-fi.com/s/8d6fbcc3a1
+- Toolbox: https://eloistree.page.link/toolbox
+- Contact: http://eloistree.page.link/talk

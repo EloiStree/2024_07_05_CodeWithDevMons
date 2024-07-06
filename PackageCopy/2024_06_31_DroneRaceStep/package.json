@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.droneracestepmesh",                              
+  "displayName": "Drone Race Steps",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Mesh and element to create a race for drone.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_06_31_DroneRaceStep.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

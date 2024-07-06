@@ -1,0 +1,23 @@
+{
+  "name": "be.romualdreynaud.packagedroneracingtest",
+  "displayName": "PackageDroneRacingTest",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "unityRelease": "",
+  "description": "",
+  "keywords": [ "Script", "Tool" ],
+  "relatedPackages": {},
+  "samples": [],
+  "author": {
+    "name": "Romuald Reynaud",
+    "mail": "",
+    "url": "https://github.com/SpardTechs"
+  },
+  "repository": {
+    "type": "Git",
+    "url": "",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+} 

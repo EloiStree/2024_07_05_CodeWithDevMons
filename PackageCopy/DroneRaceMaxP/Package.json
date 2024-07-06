@@ -1,0 +1,26 @@
+{
+  "name": "be.maxp.droneexo",
+  "version": "0.0.1",
+  "displayName": "DroneExoMaxP",
+  "description": "This is my package",
+  "unity": "2022.3",
+  "unityRelease": "",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "Maximilien Puffet",
+    "mail": "",
+    "url": "https://github.com/Raftak14"
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/Raftak14/DroneRaceMaxP",
+    "footprint": "",
+    "revision": ""
+  }
+}

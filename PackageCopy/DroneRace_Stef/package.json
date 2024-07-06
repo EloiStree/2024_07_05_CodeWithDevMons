@@ -1,0 +1,22 @@
+{                                                                                
+  "name": "be.stefansimon.dronerace",                              
+  "displayName": "Drone_Race_Stef_Sample",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "My LD is Amazing",                         
+  "keywords": ["Script","Tool"],   
+  "relatedPackages":{},     
+  "samples" : [],
+  "author": {
+    "name": "Stefan Simon",
+    "mail": "",
+    "url": "https://github.com/Girostef/DroneRace_Stef.git"
+  },     
+  "repository":{
+"type":"Git",
+"url":"",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

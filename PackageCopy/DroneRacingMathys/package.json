@@ -1,0 +1,19 @@
+{
+  "name": "be.mathysboutry.dronegame",
+  "version": "0.0.1",
+  "displayName": "Drone Race Game Exercice",
+  "description": "Formation Exercice",
+  "unity": "2022.3",
+  "dependencies": {
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Mathys",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}

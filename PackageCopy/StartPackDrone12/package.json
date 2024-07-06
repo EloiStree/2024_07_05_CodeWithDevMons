@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.monsstartpack",                              
+  "displayName": "Start Pack Mons Manifest ",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Drone circuit manifest ",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_07_01_HelloUnityDroneSoccerMonsManifest.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

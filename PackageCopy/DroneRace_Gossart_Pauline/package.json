@@ -1,0 +1,22 @@
+{                                                                                
+  "name": "be.paulinegossart.droneracesample",                              
+  "displayName": "Drone Race Pauline Sample",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",
+  "description": "level design",                         
+  "keywords": ["Script","Tool"],   
+  "relatedPackages":{},     
+  "samples" : [],
+  "author": {
+    "name": "Pauline Gossart",
+    "mail": "",
+    "url": "https://github.com/PaulineRose07"
+  },     
+  "repository":{
+"type":"Git",
+"url":"",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

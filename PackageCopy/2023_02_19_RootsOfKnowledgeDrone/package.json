@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.rootsofknowledgedronecar",                              
+  "displayName": "Roots of Knowledge Drone and Car",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Turn integer command to remote control input for a drone and a car",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"git@github.com-dronexr:DroneXR/2023_02_19_RootsOfKnowedgeDrone.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.droneracesample",                              
+  "displayName": "Drone Race 8x8x8 Eloi Stree",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Example of drone race prefab to make a a level in group without having to work in the same project by using Resources and prefab.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_06_31_DroneRaceStepSample.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

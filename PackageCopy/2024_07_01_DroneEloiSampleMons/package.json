@@ -1,0 +1,22 @@
+{                                                                                
+  "name": "be.eloistree.eloidronesample",                              
+  "displayName": "Drone Race Eloi Sample",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "My super level design :)",                         
+  "keywords": ["Script","Tool"],   
+  "relatedPackages":{},     
+  "samples" : [],
+  "author": {
+    "name": "Eloi Strée",
+    "mail": "",
+    "url": "https://github.com/EloiStree"
+  },     
+  "repository":{
+"type":"Git",
+"url":"",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

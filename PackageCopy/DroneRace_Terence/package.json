@@ -1,0 +1,22 @@
+{                                                                                
+  "name": "be.terenceviseur.terencesample",                              
+  "displayName": "Drone Race Terence Sample",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "BlahBlahBlah",                         
+  "keywords": ["Script","Tool"],   
+  "relatedPackages":{},     
+  "samples" : [],
+  "author": {
+    "name": "Terence Viseur",
+    "mail": "",
+    "url": "https://github.com/TerenceViseur"
+  },     
+  "repository":{
+"type":"Git",
+"url":"",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

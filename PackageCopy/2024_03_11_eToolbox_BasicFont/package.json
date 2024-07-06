@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.etoolboxbasicfont",                              
+  "displayName": "Toolbox of Basic Font for EloiStree package",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Group of Basic font that I need in most of my package and project to avoid having double.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_03_11_eToolbox_BasicFont.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

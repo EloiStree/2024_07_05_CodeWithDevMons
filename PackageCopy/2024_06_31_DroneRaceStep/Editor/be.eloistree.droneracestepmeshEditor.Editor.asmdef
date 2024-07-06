@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.droneracestepmeshEditor",          
+    "references": ["be.eloistree.droneracestepmesh"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

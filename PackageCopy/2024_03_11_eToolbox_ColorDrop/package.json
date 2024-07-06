@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.etoolboxcolordrop",                              
+  "displayName": "Toolbox Color Drop",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Group of color ready to be drop in the Unity Scene.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
