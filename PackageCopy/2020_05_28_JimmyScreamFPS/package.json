@@ -1,0 +1,22 @@
+{                                                                                
+  "name": "be.eloistree.jimmyscreamfps",                              
+  "displayName": "Jimmy Scream FPS",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package is a tool that helps debug the frame rate of the game by making sound. The lower the frame rate goes, the louder the application sound. It helps maintain a frame rate above 70 FPS.",                         
+  "keywords": ["Script","Tool"],   
+  "relatedPackages":{},     
+  "samples" : [],
+  "author": {
+    "name": "Eloi Strée",
+    "mail": "",
+    "url": "https://github.com/EloiStree"
+  },     
+  "repository":{
+"type":"Git",
+"url":"https://gitlab.com/EloiStree/2020_05_28_JimmyScreamFPS.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

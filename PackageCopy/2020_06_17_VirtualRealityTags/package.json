@@ -1,0 +1,27 @@
+{                                                                                
+  "name": "be.eloistree.virtualrealitytags",                              
+  "displayName": "Virtual Reality Tag",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Allow to access the virtual reality position and rotation of anchors without know what native api is behind it..",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{ "be.eloistree.license":"0.0.1"},     
+  "relatedPackages":{},     
+  "samples" : [
+      {
+        "displayName":"How to use Demo" ,
+        "description":"Demo with examples of how to use" ,
+        "path":"Samples/HowToUse"
+    }],   
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://gitlab.com/EloiStree/2020_06_17_VirtualRealityTags.git",
+"footprint":"",
+"revision":"0552df51efcec99b189257ae9f4e2314bff0a273"},     
+  "category": "Script"                   
+} 
