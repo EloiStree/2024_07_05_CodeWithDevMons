@@ -1,0 +1,20 @@
+{
+    "name": "be.eloistree.toolboxunity",
+    "version": "0.0.1",
+    "displayName": "Toolbox Unity Eloi",
+    "description": "Some tool to deal with Unity",
+    "unity": "2019.1",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {},
+   "keywords": [
+      "unity",
+      "toolbox"
+    ],
+    "author": {
+      "name": "Eloi Stree",
+      "email": "streeeloi@gmail.com",
+      "url": "https://github.com/EloiStree"
+    }
+  }
