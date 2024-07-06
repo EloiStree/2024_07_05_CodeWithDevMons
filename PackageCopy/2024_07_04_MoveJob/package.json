@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.moveobjectwithjobs",                              
+  "displayName": "Move object with Job as Student Example",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "You package description",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"",
+"footprint":"",
+"revision":"fcb782dc502c2a075b00389d4fb43de3b7bceca0"},     
+  "category": "Script"                   
+} 
