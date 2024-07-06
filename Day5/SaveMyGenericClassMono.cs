@@ -67,6 +67,8 @@ public class ExamplHowToSave
     public float m_maxTime;
 }
 
+// PlayerPrefs.SetString("Key", JsonUtility.ToJson(m_valueToSave));
+
 
 
 public class SaveExampleHowToSaveMono : SaveMyGenericClassMono<ExamplHowToSave>
