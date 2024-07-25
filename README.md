@@ -2,7 +2,7 @@
 
 Code que l'on a fait ensemble durant l'atelier (ce n'est pas un package ou un projet Unity)
 - Ajotuer `Input System`  au package manager d'un projet vide en `URP`.
-- `git clone https://github.com/EloiStree/2024_07_05_CodeWithDevMons.git` 
+- Dans `Assets`, `git clone https://github.com/EloiStree/2024_07_05_CodeWithDevMons.git` 
 
 
 Vidéo post atelier:   
