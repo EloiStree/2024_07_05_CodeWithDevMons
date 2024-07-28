@@ -132,6 +132,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5895478}
   - component: {fileID: 5895477}
+  - component: {fileID: 5895479}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -216,6 +217,104 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!114 &5895479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5895476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+--- !u!1 &203866765
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 203866767}
+  - component: {fileID: 203866766}
+  m_Layer: 0
+  m_Name: GitIgnore
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &203866766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 203866765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b019678cc98b72b4ca64e5262c0cb2a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_targetFolder: C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy
+  m_folderGitIgnore:
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2019_07_21_QuickGitUtility\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2019_07_21_UnityPackageFacilitator\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2020_05_28_JimmyScreamFPS\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2020_06_17_VirtualRealityTags\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2020_11_29_UDPThreadSender\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2021_10_03_EloiGeneralToolbox\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2022_11_22_ZhuLiStaticSingleton\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2023_02_19_RootsOfKnowledgeDrone\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2024_03_11_eToolbox_BasicFont\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2024_03_11_eToolbox_ColorDrop\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2024_04_18_WatchExecuteTime\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2024_06_31_DroneRaceStep\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2024_06_31_DroneRaceStepSample\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2024_07_01_DroneEloiSampleMons\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2024_07_04_MoveJob\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\2024_07_04_VRRelocatedAtZero\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\drone-valentin-stj\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\DroneRaceMaxP\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\DroneRace_Foot_David\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\DroneRace_Gossart_Pauline\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\DroneRace_Stef\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\DroneRace_Terence\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\DroneRacingMathys\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\GeneralLicense\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\MonLevelDeDrone\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\NativeWebSocket\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\StartPackDrone12\.giti
+  - C:\Users\elois\Desktop\2024_07_05_MonsTeaching\Reality\MainDay1\Assets\2024_07_05_CodeWithDevMons\PackageCopy\TomsDroneRacePackage\.giti
+  m_folderGit: []
+--- !u!4 &203866767
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 203866765}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.57527894, y: 7.3895936, z: -4.398182}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1448339195
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,3 +413,4 @@ SceneRoots:
   m_Roots:
   - {fileID: 1448339198}
   - {fileID: 5895478}
+  - {fileID: 203866767}
